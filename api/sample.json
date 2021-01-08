@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Luis",
+    "lastName": "Alvarez",
+    "emotion": "happines"
+  },
+  {
+    "id": 2,
+    "name": "Papa",
+    "lastName": "Doe",
+    "emotion": "sad"
+  },
+  {
+    "id": 3,
+    "name": "John",
+    "lastName": "Wing",
+    "emotion": "angry"
+  }
+]
